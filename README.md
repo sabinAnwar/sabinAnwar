@@ -16,6 +16,13 @@
 
 ---
 
+### 📊 Profile Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/main/metrics.svg" alt="GitHub metrics" />
+</p>
+
+---
+
 ### 🌸 About me
 - 🎓 Dual student in **Business Informatics**
 - 💼 Backend: **Java / Spring Boot** · Frontend: **React / TypeScript**
