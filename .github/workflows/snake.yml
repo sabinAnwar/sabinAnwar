@@ -1,7 +1,9 @@
 name: Generate animated snake
 on:
-  schedule: [{ cron: "0 0 * * 1" }]  # every Monday
+  schedule: [{ cron: "0 0 * * 1" }]   # weekly
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -9,12 +11,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: sabinAnwar
-          outputs: |
-            dist/snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: dist/snake.svg
+          outputs: dist/snake.svg
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
