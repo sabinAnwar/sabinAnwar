@@ -24,6 +24,13 @@
 
 ---
 
+### 🧊 3D Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" />
+</p>
+
+---
+
 ### 🧰 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -49,11 +56,25 @@
 ---
 
 ### 🐍 Animated Contribution Snake
-<!-- simplest: relative path -->
-<img src="./output/snake.svg" alt="animated contribution snake" />
+<img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/output/snake.svg" alt="animated contribution snake" />
 
-<!-- or: explicit raw link to main -->
-<img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/main/output/snake.svg" alt="animated contribution snake" />
+---
+
+<!-- Animated banner -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sabin%20Anwar&fontAlign=50&fontSize=48&color=0:ff69b4,100:b565f2&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20BI%20%26%20Analytics&descAlign=50&descAlignY=75"
+    alt="Sabin Anwar banner" />
+</p>
+
+---
+
+### 📈 Activity
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=00000000&color=ff69b4&line=ff69b4&point=fad2e1&area=true&hide_border=true"
+    alt="sabinAnwar activity graph" />
+</p>
 
 ---
 
@@ -69,7 +90,7 @@
 - 🧭 **Burnout** — Burnout Data Analysis
 - 🧼 **Data-Quality-BI** — Power BI dashboards with data checks
 
-
+---
 
 ### 🤝 Connect
 <p>
