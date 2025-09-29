@@ -1,16 +1,23 @@
 name: Build metrics
 on:
-  schedule: [{ cron: "0 6 * * 1" }]
   workflow_dispatch:
+  schedule: [{ cron: "0 6 * * 1" }]   # weekly
+
 permissions:
   contents: write
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Verify secret exists
+        run: test -n "${{ secrets.METRICS_TOKEN }}" && echo "Token present ✅" || (echo "❌ METRICS_TOKEN missing"; exit 1)
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
-          github_user_name: sabinAnwar          # 🔁 dynamic owner
+          token: ${{ secrets.METRICS_TOKEN }}        # <- PAT classic
+          user: ${{ github.repository_owner }}       # no hardcoded username
           template: classic
           base: header, activity, repositories
           config_timezone: Europe/Berlin
