@@ -18,8 +18,9 @@
 
 ### 📊 Profile Metrics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/main/metrics.svg" alt="GitHub metrics" />
+  <img src="./metrics.svg" alt="GitHub metrics"/>
 </p>
+
 
 ---
 
