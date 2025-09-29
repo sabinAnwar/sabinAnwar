@@ -9,7 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.1
+      - name: Generate 3D card
+        uses: yoshi389111/github-profile-3d-contrib@main   # <-- changed
         with:
           USERNAME: sabinAnwar
       - name: Commit files
