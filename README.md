@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://github.com/sabinAnwar?tab=followers"><img src="https://img.shields.io/github/followers/sabinAnwar?style=for-the-badge&logo=github&color=ff4d9d" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=sabinAnwar&style=for-the-badge&color=ff66b3" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Working%20Student%20Roles-ff4d9d?style=for-the-badge" alt="Open To Roles" />
 </p>
 
 <p align="center">
