@@ -1,134 +1,137 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:ff69b4,100:b565f2&reversal=true&v=1" alt="Dynamic Pink Wave Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:ff4d9d,100:ff8fab&text=Sabin%20Anwar&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Sabin Anwar!</h1>
+<h1 align="center">Sabin Anwar</h1>
+
+<p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast | She/Her</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2400&pause=900&center=true&vCenter=true&width=920&lines=Crafting+Clean+Code%2C+Usable+Products%2C+Elegant+UIs+%F0%9F%92%96;Specializing+in+Java+%2F+Spring+Boot+%7C+React+%2F+TypeScript;Driving+Insights+with+BI+%26+Data+Quality+%7C+Power+BI" alt="Dynamic Typing Intro" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sabinAnwar?tab=followers"><img src="https://img.shields.io/github/followers/sabinAnwar?style=for-the-badge&color=ff69b4&logo=github" alt="GitHub Followers"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sabinAnwar&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Focus-Javascript%20%E2%80%A2%20React%20%E2%80%A2%20BI-ff69b4?style=for-the-badge" alt="Focus Javascript React BI"/>
-  <img src="https://img.shields.io/badge/Focus-Typescript-ff69b4?style=for-the-badge" alt="Focus Typescript"/>
-  <img src="https://img.shields.io/badge/Focus-Python-ff69b4?style=for-the-badge" alt="Focus Python"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=980&lines=Building+clean%2C+usable+software+with+real+business+impact;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript+%7C+BI+%2B+Data+Quality" alt="Typing Intro" />
 </p>
 
 <p align="center">
-  <a href="#-about-me">About Me</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-github-stats">GitHub Stats</a> •
-  <a href="#-activity-overview">Activity Overview</a> •
-  <a href="#-visual-showcase">Visual Showcase</a> •
-  <a href="#-featured-projects">Featured Projects</a> •
-  <a href="#-connect-with-me">Connect</a>
+  <a href="https://github.com/sabinAnwar?tab=followers"><img src="https://img.shields.io/github/followers/sabinAnwar?style=for-the-badge&logo=github&color=ff4d9d" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sabinAnwar&style=for-the-badge&color=ff66b3" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Working%20Student%20Roles-ff4d9d?style=for-the-badge" alt="Open To Roles" />
 </p>
 
----
-
-## 🌸 About Me
-
-As a dedicated **Dual Student in Business Informatics**, my professional journey is centered around the intersection of technology and business. I am deeply committed to developing **clean, efficient code** that underpins **usable products** and **elegant user interfaces**. My expertise is versatile, encompassing robust **backend development** with **Java and Spring Boot**, alongside dynamic **frontend solutions** built with **React and TypeScript**.
-
-Beyond development, I excel in **Business Intelligence (BI)** and **Data Quality**, leveraging tools like **Power BI** to transform complex data into compelling **data storytelling**. My core interests include championing **usability (aligned with ISO 92441 standards)**, advocating for **accessible design**, and implementing **clean architecture** principles to deliver software that is both powerful and intuitive.
-
----
-
-## 🧰 Tech Stack & Tools
-
-I actively work with a diverse set of technologies to bring ideas to life:
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-ff69b4?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-ff69b4?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-ff69b4?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Power%20BI-ff69b4?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Docker-ff69b4?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jira-ff69b4?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <a href="#about">About</a> •
+  <a href="#core-strengths">Core Strengths</a> •
+  <a href="#technology-stack">Tech Stack</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#github-analytics">GitHub Analytics</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## 📈 GitHub Stats & Contributions
+## About
 
-My journey and progress on GitHub, visualized:
+I am a **Dual Student in Business Informatics** with a strong focus on building software that is both technically solid and useful for people.
+
+I combine:
+- **Backend engineering** with Java and Spring Boot
+- **Frontend development** with React and TypeScript
+- **Business Intelligence and data quality** with Power BI and structured analysis
+
+My goal is to contribute to teams that value clean architecture, usability, and measurable business impact.
+
+---
+
+## Core Strengths
+
+- Designing and implementing maintainable full-stack applications
+- Translating business requirements into practical technical solutions
+- Building intuitive, accessible user interfaces with a usability-first mindset
+- Creating dashboards and reports that improve decision-making quality
+- Working in collaborative environments with Git, Jira, and agile workflows
+
+---
+
+## Technology Stack
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical&text_color=ff69b4&icon_color=ff69b4&title_color=ff69b4" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinAnwar&theme=radical&hide_border=true&stroke=ff69b4&background=00000000&currstreak=ff69b4&ring=ff69b4&fire=ff69b4&sideNums=ff69b4&sideLabels=ff69b4&dates=ff69b4" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&theme=radical&hide_border=true&text_color=ff69b4&icon_color=ff69b4&title_color=ff69b4" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/Java-d63384?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-d63384?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/TypeScript-d63384?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-d63384?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-d63384?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-d63384?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Docker-d63384?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-d63384?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-d63384?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
 
-## 📊 Activity Overview
+## Featured Projects
 
-An insight into my recent coding activities and contributions:
+### 1. Fashion-AI-App
+**Focus:** AI-assisted recommendations, full-stack architecture, practical UX
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=00000000&color=ff69b4&line=ff69b4&point=fad2e1&area=true&hide_border=true&custom_title=Sabin%27s%20Activity%20Graph"
-    alt="Activity Graph" />
-</p>
+Built an application that combines backend logic and frontend interaction to deliver intelligent outfit suggestions.
+
+**Tech:** Java, React, Business Intelligence concepts
+
+### 2. Burnout Data Analysis
+**Focus:** data exploration, insight extraction, storytelling
+
+Analyzed burnout-related data to identify patterns and support evidence-based conclusions.
+
+**Tech:** Data analytics workflows, BI thinking
+
+### 3. Data-Quality BI Dashboards
+**Focus:** reliable reporting, quality checks, actionable metrics
+
+Created Power BI dashboards with integrated data quality controls to improve trust in reported KPIs.
+
+**Tech:** Power BI, data quality methods
 
 ---
 
-## ✨ Visual Showcase
-
-Adding a touch of visual flair to my profile:
+## GitHub Analytics
 
 <p align="center">
-  <!-- 3D contributions (local file generated by yoshi389111/github-profile-3d-contrib) -->
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinAnwar&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 <p align="center">
-  <!-- Snake (choose ONE source: output branch OR local folder on main) -->
   <img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/output/snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabinAnwar&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=sabinAnwar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## 📚 Featured Projects
-
-A selection of projects that highlight my skills and interests:
-
-*   👗 **Fashion-AI-App** — An innovative AI-powered application designed to provide intelligent outfit suggestions. This project integrates **Java** for robust backend logic, **React** for a dynamic user interface, and **Business Intelligence** principles for data-driven recommendations.
-*   🧭 **Burnout Data Analysis** — A comprehensive data analysis project focused on exploring and understanding trends related to professional burnout, utilizing various data science techniques.
-*   🧼 **Data-Quality-BI Dashboards** — Development of interactive **Power BI dashboards** that incorporate advanced data quality checks, ensuring the reliability and accuracy of business insights.
-
----
-
-## 🤝 Connect With Me
-
-I am always eager to connect with fellow professionals, collaborate on exciting projects, or discuss new ideas. Feel free to reach out through the following channels:
+## Contact
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-handle/">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/sabinAnwar">
-    <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-d63384?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-<p align="center"><i>“Build with clarity. Design with empathy. Ship with pride.”</i> ✨</p>
+<p align="center">For professional inquiries, please connect with me via GitHub.</p>
+
+<p align="center"><i>Clean code. Thoughtful design. Business value.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:ff69b4,100:b565f2&reversal=true" alt="Dynamic Pink Wave Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ff8fab,100:ff4d9d" alt="Footer" />
 </p>
-
