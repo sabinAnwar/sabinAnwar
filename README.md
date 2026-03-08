@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:ff4d9d,100:ff8fab&text=Sabin%20Anwar&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
 </p>
 
-<h1 align="center">Sabin Anwar</h1>
+<h1 align="center">Sabin El Anwar</h1>
 
 <p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast | She/Her</b></p>
 
@@ -93,7 +93,7 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabin&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sabinAnwar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
