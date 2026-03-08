@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:ff4d9d,100:ff8fab&text=Sabin%20Anwar&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:ff4d9d,100:ff8fab&text=Sabin%20El%20Anwar&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
 </p>
 
 <h1 align="center">Sabin El Anwar</h1>
