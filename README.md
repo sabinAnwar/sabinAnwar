@@ -94,7 +94,7 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=sabinAnwar&theme=radical&hide_border=true" alt="GitHub Streak" />
+ <img height="170" src="https://streak-stats.demolab.com?user=sabinAnwar&theme=radical&hide_border=true&border_radius=5.1&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
