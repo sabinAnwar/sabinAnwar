@@ -4,7 +4,7 @@
 
 <h1 align="center">Sabin El Anwar</h1>
 
-<p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast | She/Her</b></p>
+<p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast </b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=980&lines=Building+clean%2C+usable+software+with+real+business+impact;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript+%7C+BI+%2B+Data+Quality" alt="Typing Intro" />
