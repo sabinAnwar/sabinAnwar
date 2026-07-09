@@ -7,7 +7,7 @@
 <p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast </b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=980&lines=Building+clean%2C+usable+software+with+real+business+impact;Java+%2B+Spring+Boot+%7C+React+%2B+TypeScript+%7C+BI+%2B+Data+Quality" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=980&lines=Building+clean%2C+usable+software+with+real+business+impact;Turning+ideas+into+practical+full-stack+solutions;Focusing+on+UX%2C+data+quality%2C+and+measurable+value" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
- <img height="170" src="https://streak-stats.demolab.com?user=sabinAnwar&theme=radical&hide_border=true&border_radius=5.1&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=sabinAnwar&theme=radical&hide_border=true&border_radius=5.1&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
