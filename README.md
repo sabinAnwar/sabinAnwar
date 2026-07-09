@@ -7,7 +7,7 @@
 <p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast </b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=980&lines=Building+clean%2C+usable+software+with+real+business+impact;Turning+ideas+into+practical+full-stack+solutions;Focusing+on+UX%2C+data+quality%2C+and+measurable+value" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=720&lines=Building+clean%2C+usable+software+with+real+business+impact;Turning+ideas+into+practical+full-stack+solutions;Focusing+on+UX%2C+data+quality%2C+and+measurable+value" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -93,31 +93,31 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 
 </p>
 <p align="center">
-  <img height="250"  src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
+  <img height="250" width="420" src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img height="150" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img width="700" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/output/snake.svg" alt="Snake Animation" />
+  <img width="700" src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/output/snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sabinAnwar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img width="700" src="https://github-trophies.vercel.app/?username=sabinAnwar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
