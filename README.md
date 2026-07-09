@@ -92,17 +92,18 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-
-</p>
-<p align="center">
-  <img height="250" width="380" src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
-</p>
-
-<p align="center">
-  <img height="150" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="60%">
+      <img width="100%" src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
+    </td>
+    <td align="center" width="40%">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+      <br />
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
