@@ -93,31 +93,31 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+  <img height="170" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
 
 </p>
 <p align="center">
-  <img height="250" width="420" src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
+  <img height="250" width="380" src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
 </p>
 
 <p align="center">
-  <img height="150" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+  <img height="150" width="300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img width="700" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
+  <img width="650" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/output/snake.svg" alt="Snake Animation" />
+  <img width="650" src="https://raw.githubusercontent.com/sabinAnwar/sabinAnwar/output/snake.svg" alt="Snake Animation" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://github-trophies.vercel.app/?username=sabinAnwar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img width="650" src="https://github-trophies.vercel.app/?username=sabinAnwar&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
 ---
