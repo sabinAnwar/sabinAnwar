@@ -7,7 +7,7 @@
 <p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast </b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=720&lines=Building+clean%2C+usable+software+with+real+business+impact;Turning+ideas+into+practical+full-stack+solutions;Focusing+on+UX%2C+data+quality%2C+and+measurable+value" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=720&lines=Building+clean%2C+usable+software+with+real+business+impact;Combining+backend%2C+frontend%2C+and+BI+thinking;Turning+requirements+into+practical%2C+user-friendly+solutions" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -92,21 +92,28 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 
 ## GitHub Analytics
 
+<p align="center">
+  <i>GitHub stats embeds are temporarily disabled to avoid broken third-party dependencies.</i>
+</p>
+
 <table align="center">
   <tr>
     <td align="center" width="60%">
       <img width="100%" src="./profile-3d-contrib/gitfut_card.png" alt="card_git_fut" />
     </td>
     <td align="center" width="40%">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sabinAnwar&show_icons=true&hide_title=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-      <br />
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sabinAnwar&layout=compact&hide_border=true&theme=radical" alt="Top Languages" />
+      <p><b>Current focus</b></p>
+      <ul align="left">
+        <li>Building clean full-stack applications</li>
+        <li>Improving data quality and reporting workflows</li>
+        <li>Combining UX, backend, and BI thinking</li>
+      </ul>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </p>
 
 <p align="center">
