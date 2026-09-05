@@ -114,6 +114,10 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 </table>
 
 <p align="center">
+  <img width="800" src="assets/activity-graph.svg" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
   <img width="650" src="https://streak-stats.demolab.com?user=sabinAnwar&theme=radical&background=0d1117&ring=ff4d9d&fire=ff4d9d&currStreakNum=ff8fab" alt="Contribution Streak" />
 </p>
 

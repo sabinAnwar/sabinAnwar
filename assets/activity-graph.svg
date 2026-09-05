@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" width="100%" height="100%" style="background:#0d1117;border-radius:8px;border:1px solid #30363d;">
+  <defs>
+    <linearGradient id="areaGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff4d9d" stop-opacity="0.45" />
+      <stop offset="60%" stop-color="#ff66b3" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#ff4d9d" stop-opacity="0.0" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title { font-size: 16px; font-weight: 600; fill: #ffffff; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+    .subtitle { font-size: 13px; font-weight: 500; fill: #ff4d9d; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif; }
+    .line-curve { stroke-dasharray: 2000; stroke-dashoffset: 2000; animation: drawLine 2s ease-out forwards; }
+    .fade-area { opacity: 0; animation: fadeIn 1.5s ease-out forwards 0.5s; }
+    @keyframes drawLine { to { stroke-dashoffset: 0; } }
+    @keyframes fadeIn { to { opacity: 1; } }
+  </style>
+
+  <!-- Header -->
+  <g transform="translate(30, 36)">
+    <!-- Activity Icon -->
+    <path d="M22 12h-4l-3 9L9 3l-3 9H2" stroke="#ff4d9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <text x="32" y="7" class="title">Contribution Activity</text>
+    <text x="32" y="24" class="subtitle">2,004 Total Contributions in past year</text>
+  </g>
+
+  <!-- Grid lines -->
+  
+    <line x1="55" y1="75.0" x2="805" y2="75.0" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4" />
+    <text x="43" y="79.0" fill="#7d8590" font-size="11" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="end">220</text>
+    
+    <line x1="55" y1="138.3" x2="805" y2="138.3" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4" />
+    <text x="43" y="142.3" fill="#7d8590" font-size="11" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="end">146</text>
+    
+    <line x1="55" y1="201.7" x2="805" y2="201.7" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4" />
+    <text x="43" y="205.7" fill="#7d8590" font-size="11" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="end">73</text>
+    
+    <line x1="55" y1="265.0" x2="805" y2="265.0" stroke="#21262d" stroke-width="1" stroke-dasharray="4,4" />
+    <text x="43" y="269.0" fill="#7d8590" font-size="11" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="end">0</text>
+    
+
+  <!-- Gradient Area -->
+  <path class="fade-area" d="M 55.0,138.3 C 66.4,139.2 100.5,139.9 123.2,143.7 C 145.9,147.4 168.6,164.5 191.4,160.7 C 214.1,156.8 236.8,122.2 259.5,120.5 C 282.3,118.8 305.0,154.9 327.7,150.6 C 350.5,146.4 373.2,98.5 395.9,95.0 C 418.6,91.5 441.4,126.3 464.1,129.8 C 486.8,133.2 509.5,111.4 532.3,115.9 C 555.0,120.4 577.7,156.0 600.5,156.8 C 623.2,157.6 645.9,117.7 668.6,120.5 C 691.4,123.3 714.1,151.9 736.8,173.8 C 759.5,195.7 793.6,238.9 805.0,251.9 L 805.0,265.0 L 55.0,265.0 Z" fill="url(#areaGradient)" />
+
+  <!-- Main Glow Stroke -->
+  <path d="M 55.0,138.3 C 66.4,139.2 100.5,139.9 123.2,143.7 C 145.9,147.4 168.6,164.5 191.4,160.7 C 214.1,156.8 236.8,122.2 259.5,120.5 C 282.3,118.8 305.0,154.9 327.7,150.6 C 350.5,146.4 373.2,98.5 395.9,95.0 C 418.6,91.5 441.4,126.3 464.1,129.8 C 486.8,133.2 509.5,111.4 532.3,115.9 C 555.0,120.4 577.7,156.0 600.5,156.8 C 623.2,157.6 645.9,117.7 668.6,120.5 C 691.4,123.3 714.1,151.9 736.8,173.8 C 759.5,195.7 793.6,238.9 805.0,251.9" fill="none" stroke="#ff4d9d" stroke-width="6" opacity="0.3" filter="url(#glow)" />
+
+  <!-- Main Stroke -->
+  <path class="line-curve" d="M 55.0,138.3 C 66.4,139.2 100.5,139.9 123.2,143.7 C 145.9,147.4 168.6,164.5 191.4,160.7 C 214.1,156.8 236.8,122.2 259.5,120.5 C 282.3,118.8 305.0,154.9 327.7,150.6 C 350.5,146.4 373.2,98.5 395.9,95.0 C 418.6,91.5 441.4,126.3 464.1,129.8 C 486.8,133.2 509.5,111.4 532.3,115.9 C 555.0,120.4 577.7,156.0 600.5,156.8 C 623.2,157.6 645.9,117.7 668.6,120.5 C 691.4,123.3 714.1,151.9 736.8,173.8 C 759.5,195.7 793.6,238.9 805.0,251.9" fill="none" stroke="#ff4d9d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Data Points -->
+  
+    <g class="point-group">
+      <circle cx="55.0" cy="138.3" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="55.0" cy="138.3" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="123.2" cy="143.7" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="123.2" cy="143.7" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="191.4" cy="160.7" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="191.4" cy="160.7" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="259.5" cy="120.5" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="259.5" cy="120.5" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="327.7" cy="150.6" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="327.7" cy="150.6" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="395.9" cy="95.0" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="395.9" cy="95.0" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="464.1" cy="129.8" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="464.1" cy="129.8" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="532.3" cy="115.9" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="532.3" cy="115.9" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="600.5" cy="156.8" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="600.5" cy="156.8" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="668.6" cy="120.5" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="668.6" cy="120.5" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="736.8" cy="173.8" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="736.8" cy="173.8" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+    <g class="point-group">
+      <circle cx="805.0" cy="251.9" r="8" fill="#ff4d9d" opacity="0.25" />
+      <circle cx="805.0" cy="251.9" r="4" fill="#ff4d9d" stroke="#ffffff" stroke-width="2" />
+    </g>
+    
+
+  <!-- Month Labels -->
+  
+    <text x="55.0" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Oct</text>
+    
+    <text x="123.2" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Nov</text>
+    
+    <text x="191.4" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Dec</text>
+    
+    <text x="259.5" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Jan</text>
+    
+    <text x="327.7" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Feb</text>
+    
+    <text x="395.9" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Mar</text>
+    
+    <text x="464.1" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Apr</text>
+    
+    <text x="532.3" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">May</text>
+    
+    <text x="600.5" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Jun</text>
+    
+    <text x="668.6" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Jul</text>
+    
+    <text x="736.8" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Aug</text>
+    
+    <text x="805.0" y="289" fill="#7d8590" font-size="12" font-weight="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">Sep</text>
+    
+</svg>
