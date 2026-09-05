@@ -1,10 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:ff4d9d,100:ff8fab&text=Sabin%20El%20Anwar&fontSize=44&fontColor=ffffff&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:ff4d9d,100:ff8fab&animation=fadeIn" alt="Header" />
+</p>
+
+<p align="center">
+  <img src="assets/profile-drawing-animated.gif" width="220" alt="Sabin El Anwar - Hand Drawn Sketch" />
 </p>
 
 <h1 align="center">Sabin El Anwar</h1>
 
-<p align="center"><b>Business Informatics Student | Full-Stack Developer | BI Enthusiast </b></p>
+<p align="center"><b>AI Engineer | Junior Software Engineer | Junior Software Developer | Full-Stack Developer | BI Enthusiast </b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=22&duration=2800&pause=1200&center=true&vCenter=true&width=720&lines=Building+clean%2C+usable+software+with+real+business+impact;Combining+backend%2C+frontend%2C+and+BI+thinking;Turning+requirements+into+practical%2C+user-friendly+solutions" alt="Typing intro" />
