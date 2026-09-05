@@ -96,9 +96,6 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 
 ## GitHub Analytics
 
-<p align="center">
-  <i>GitHub stats embeds are temporarily disabled to avoid broken third-party dependencies.</i>
-</p>
 
 <table align="center">
   <tr>
@@ -117,7 +114,7 @@ Created Power BI dashboards with integrated data quality controls to improve tru
 </table>
 
 <p align="center">
-  <img width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=sabinAnwar&bg_color=0d1117&color=ff66b3&line=ff4d9d&point=ff8fab&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+  <img width="650" src="https://streak-stats.demolab.com?user=sabinAnwar&theme=radical&background=0d1117&ring=ff4d9d&fire=ff4d9d&currStreakNum=ff8fab" alt="Contribution Streak" />
 </p>
 
 <p align="center">
